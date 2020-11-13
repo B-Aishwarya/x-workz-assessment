@@ -1,0 +1,26 @@
+1.What is the difference between compile time and runtime?
+ -> Compile time is when the program is compiled, where source code is converted into an executable code.
+ -> runtime is when it executes (on either a physical or virtual computer). 
+  
+  
+2.Explain types of variables with example.
+ -> A variable is a name which is associated with a value that can be changed 
+   there are two types of variables 
+   a) Local variable = Local variable is a variable declared inside a method and also accesible inside the method that declare it. you can declare them at start of the program within main method insiade class.
+   b) Class variables also known as static variables are declared with the static keyword in a class, but outside a method.
+   
+3.Explain method, parameter, argument and return types with example
+->    a) Method- Method is collection of statements, which is used to perform logic or used to write code and also it is used to reuse statements.
+      b) parameter-Parameter act as a variable inside the method name inside paranthesis. 
+	  c) Argument- Argument- is a variable passed to the method when a parameter is passed to the method it is argument.
+	  d) Return type -Defines the datatype of the value returned from a method, stores values returns from method , we declare method return type in its method declaration.
+	  
+4.What is Encapsulation? Explain with an example
+->Where we hide the data members means field, using access specifiers we achieve encapsulation in java.
+-> It consist of get() and set() where get()it allow  to only read the data from outside class but not to accessand set() is used to change the value.
+  
+5.Explain array with example.
+->An Arrayis a datastructure which can store the collection of element of the similar datatypes.
+
+6.Explain Method overloading with two example?
+->Two methods having same signature but different parameter is called method overloading.
